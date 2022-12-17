@@ -2,7 +2,7 @@
 
 Blinky Cycles by Lorenzo Swank (GitHub.com/LSwank)
 
-An xBar Plugin.
+An [xBar](https://xbarapp.com/) Plugin.
 
 # Introduction
 
@@ -18,7 +18,7 @@ This is meant to work with the blink(1) LED device and yabai on macOS. If you do
 
 # License
 
-[Insert appropriate Open Source with Attribution license here.]
+GPL'd! See LICENSE.md.
 
 # (In)frequently Asked Questions
 
